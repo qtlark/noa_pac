@@ -60,7 +60,7 @@ noa32c[/nologo] {/p|/x|/c} [/r]
 | /nologo      | no logo                                                      |
 | /p           | pack (.noa) archive                                          |
 | /x           | unpack (.noa) archive                                        |
-| /c           | compare (.noa) archive                                       |
+| /c           | compare content                                              |
 | /r           | enable automatic compression                                 |
 | /pass        | password for (un)pack                                        |
 | /gp          | automatically generates passwords. <br />The generated password can be found in the list file. |
