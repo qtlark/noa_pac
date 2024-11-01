@@ -70,7 +70,7 @@ noa32c[/nologo] {/p|/x|/c} [/r]
 | /erisa       | enable compression                                           |
 | /crypt       | encrypt and pack                                             |
 | /erisa_crypt | compress, encrypt and pack                                   |
-| /time        | measure the time of (up)pack                                 |
+| /time        | measure the time of (up)packing                              |
 
 ## Refenrence
 
