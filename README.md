@@ -44,7 +44,7 @@ example_unpack
    └─ 1_scene03.srcxml
 ```
 
-## Advance Usage
+## Advanced Usage
 
 ```
 noa32c[/nologo] {/p|/x|/c} [/r]
