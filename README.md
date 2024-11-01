@@ -26,7 +26,7 @@ example_pack
 
 ### 2. How to unpack
 
-```
+```cmd
 chcp 932
 noa32c.exe /x "/path/to/input/fname.noa" "/path/to/output/"
 ```
