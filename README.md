@@ -63,7 +63,7 @@ noa32c[/nologo] {/p|/x|/c} [/r]
 | /c           | compare content                                              |
 | /r           | enable automatic compression                                 |
 | /pass        | password for (un)pack                                        |
-| /gp          | automatically generates passwords. <br />The generated password can be found in the list file. |
+| /gp          | generate password automatically. <br />The generated password can be found in the list file. |
 | /l           | specific a list file                                         |
 | /d           | pack recursively                                             |
 | /raw         | disable compression                                          |
