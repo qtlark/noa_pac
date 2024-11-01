@@ -57,7 +57,7 @@ noa32c[/nologo] {/p|/x|/c} [/r]
 
 | Option       | Note                                                         |
 | ------------ | ------------------------------------------------------------ |
-| /nologo      | no title                                                     |
+| /nologo      | no logo                                                      |
 | /p           | pack (.noa) archive                                          |
 | /x           | unpack (.noa) archive                                        |
 | /c           | compare (.noa) archive                                       |
